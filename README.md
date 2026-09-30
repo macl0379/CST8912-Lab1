@@ -19,30 +19,30 @@ During this Lab my biggest take away was the seemingly infinite amount of config
 
 ### 1. Resource Group
 
-![Resource Group Screenshot](/CST8912-Lab1/Screenshots/Resource%20Group.png)
+![Resource Group Screenshot](/Screenshots/Resource-Group.png)
 
 ### 2. VM Deployment & Overview
 
-![VM Deployment Screenshot](/CST8912-Lab1/Screenshots/VM%20Deployment.png)
+![VM Deployment Screenshot](/Screenshots/VM-Deployment.png)
 
-![VM Overview Screenshot](/CST8912-Lab1/Screenshots/VM%20Overview.png)
+![VM Overview Screenshot](/Screenshots/VM-Overview.png)
 
 ### 3. Stopping & Starting of VM
 
-![VM Stop and Start Screenshot](/CST8912-Lab1/Screenshots/Stop%20&%20Start%20Success.png)
+![VM Stop and Start Screenshot](/Screenshots/Stop&Start-Success.png)
 
 ### 4. Log Analytics Workspace
 
-![Log Analytics Workspace Screenshot](/CST8912-Lab1/Screenshots/LAW.png)
+![Log Analytics Workspace Screenshot](/Screenshots/LAW.png)
 
 ### 5. Azure Monitor Agent
 
-![Azure Monitor Agent Screenshot](/CST8912-Lab1/Screenshots/AzureMonitorLinuxAgent.png)
+![Azure Monitor Agent Screenshot](/Screenshots/AzureMonitorLinuxAgent.png)
 
 ### 6. SSH Command Output & File Transfer Verification
 
-![Terminal Output Screenshot](/CST8912-Lab1/Screenshots/Command%20Line%20Output.png)
+![Terminal Output Screenshot](/Screenshots/Command-Line-Output.png)
 
 ### 7. Cleanup Confirmation
 
-![Cleanup Confirmation Screenshot](/CST8912-Lab1/Screenshots/Resource%20Cleanup.png)
+![Cleanup Confirmation Screenshot](/Screenshots/Resource-Cleanup.png)
